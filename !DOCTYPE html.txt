@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finance Savvy | Smart Money & Investing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Finance Savvy</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#affiliate">Recommended Tools</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h2>Smart Money Moves Start Here</h2>
+        <p>Your go-to resource for personal finance, investing, and wealth-building strategies.</p>
+        <a href="#affiliate" class="cta-button">See Our Top Finance Tools</a>
+    </section>
+    
+    <section id="blog">
+        <h2>Latest Blog Posts</h2>
+        <article>
+            <h3><a href="#">Best Investment Apps in 2025</a></h3>
+            <p>A comparison of the top investing platforms for beginners and experts alike.</p>
+        </article>
+        <article>
+            <h3><a href="#">5 High-Yield Savings Accounts You Should Know</a></h3>
+            <p>Earn more on your savings with these top-rated bank accounts.</p>
+        </article>
+        <a href="#blog" class="cta-button">Read More Articles</a>
+    </section>
+    
+    <section id="affiliate">
+        <h2>Recommended Finance Tools</h2>
+        <ul>
+            <li><a href="#">🏦 Best Stock Trading Platforms</a></li>
+            <li><a href="#">💳 Top Cash-Back Credit Cards</a></li>
+            <li><a href="#">📈 Budgeting & Investment Apps</a></li>
+        </ul>
+        <p>We may earn commissions when you click these links, at no extra cost to you.</p>
+    </section>
+    
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Finance Savvy is dedicated to helping readers make informed financial decisions with in-depth guides, expert insights, and the best affiliate finance tools.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions? Reach out at <a href="mailto:contact@financesavvy.com">contact@financesavvy.com</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Finance Savvy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
